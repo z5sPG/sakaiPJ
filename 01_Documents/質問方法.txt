@@ -1,0 +1,17 @@
+わからないことは"year_month_day_no.txt"形式で作成し、
+以下の様に記述する
+
+例1：2017_11_05_01.txt
+1.Gitでリポジトリを作成することが出来ない
+
+これに対しての返信は"year_month_day_no_res.txt"形式で作成し回答する
+
+例2：2017_11_05_01_res.txt
+1.Gitでリポジトリを作成することが出来ない
+    A:初回に限り空コミットをする必要があるので、Sorce tree経由でTerminalを起動し、
+      以下のコマンドを順に実行すること
+      # リポジトリ作成
+      git init
+      # 最初のコミット
+      git commit --allow-empty -m "first commit"
+      
