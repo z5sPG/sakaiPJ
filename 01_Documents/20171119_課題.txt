@@ -1,0 +1,11 @@
+課題
+下記URLを見ながら実際にテキストエディタに書きながら実施
+
+HTML入門
+https://dotinstall.com/lessons/basic_html_v3
+
+CSS入門
+https://dotinstall.com/lessons/basic_css_v3
+
+上記２つを実施した後に完了報告を連絡すること
+尚、不明点などあれば随時質問TEXTを作成しプッシュすること
